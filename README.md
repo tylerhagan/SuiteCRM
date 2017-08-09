@@ -1,7 +1,6 @@
-## SuiteCRM 7.9.4
+## SuiteCRM & Sygns
 
-[![Build Status](https://travis-ci.org/salesagility/SuiteCRM.svg?branch=master)](https://travis-ci.org/salesagility/SuiteCRM)
-
+Forked Open Source CRM, SuiteCRM to be integrated with Shopify.
 
 ### What's in this repository ###
 
